@@ -1,0 +1,3 @@
+Python 3.8+
+gradio, torch, PIL, scikit-learn, opencv-python
+transformers
